@@ -8,5 +8,4 @@ encironment.plugins.prepend(
     jquery: 'jquery/src/jquery',
   })
 )
-
 module.exports = environment

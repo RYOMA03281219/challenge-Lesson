@@ -6,6 +6,8 @@ encironment.plugins.prepend(
   new webpack.ProvidePlugin({
     $: 'jquery/src/jquery',
     jquery: 'jquery/src/jquery',
+    swiper: 'swiper/swiper-bundle'
   })
 )
+
 module.exports = environment

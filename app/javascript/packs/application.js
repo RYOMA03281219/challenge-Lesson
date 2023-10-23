@@ -11,6 +11,8 @@ import 'jquery'
 import "script.js"
 import Swiper from 'swiper/swiper-bundle.js';
 import 'swiper/swiper-bundle.css';
+import "sample.js"
+import "sripts/sample.js"
 
 Rails.start()
 Turbolinks.start()
